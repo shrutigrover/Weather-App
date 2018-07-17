@@ -1,0 +1,47 @@
+#tempunit{
+  cursor: pointer;
+  color: red;
+}
+body{
+   background-color: lightblue;
+   font-size: 20px;
+   font-weight: bolder;
+   font-family: cursive;
+}
+.wi-hail:before {
+    content: "\f015";
+}
+.clear-sky{
+  background-image: url("https://images.pexels.com/photos/754419/pexels-photo-754419.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+}
+.rain{
+    background-image: url("https://images.pexels.com/photos/268917/pexels-photo-268917.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+  color : white;
+}
+
+.thunder{
+    background-image: url("https://images.pexels.com/photos/268774/pexels-photo-268774.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+  color : white;
+}
+
+.drizzle{
+      background-image: url("https://images.pexels.com/photos/923079/pexels-photo-923079.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+}
+
+.snow{
+      background-image: url("https://images.pexels.com/photos/700535/pexels-photo-700535.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+}
+
+.atmosphere{
+      background-image: url("https://images.pexels.com/photos/186980/pexels-photo-186980.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+}
+
+.clouds{
+      background-image: url("https://images.pexels.com/photos/754419/pexels-photo-754419.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+      color: white;
+}
+
+.extreme{
+      background-image: url("https://images.pexels.com/photos/186980/pexels-photo-186980.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+      color: white;
+}
